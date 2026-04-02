@@ -43,7 +43,7 @@ Pour chaque bourse on a: ask prices/volumes et bid prices/volumes aux 5 premiers
 - Plus le **spread est faible**, plus il y a des la concurrence sur le marché **donc plus l'actif est liquide**
 - On ne peut pas vendre plus cher que le ask = **Le BID est toujours inferieur ou egal au ASK**
 - faut gerer les ordres, donc la quantité a une importance aussi .
-- Le 'Trade Price' correspond à la difference entre le Prix du Trade (généralement = ask) et le aggregate mid-price (voir formule chatgpt/rajouter dans la diapo)
+- Le 'Trade Price' correspond à la difference entre le Prix du Trade (généralement = ask) et le aggregate mid-price
 - Le 'Trade price' donne une idée de la préssion acheteur/vendeur : si souvent au-dessus, **les acheteurs sont frustrés.**
 
 - Généralement on **veut éviter les marchés peu liquides** = **réduire le spread**
