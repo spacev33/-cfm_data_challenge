@@ -1,4 +1,4 @@
-# cfm_data_challenge
+# Predictions-boursieres
 
 Where will the next trade take place? : https://challengedata.ens.fr/participants/challenges/40/
 
